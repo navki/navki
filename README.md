@@ -90,11 +90,10 @@ Highly motivated and detail-oriented aspiring Data Scientist with strong foundat
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navki&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navki&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yashu257&theme=tokyonight&hide_border=true" />
 </p>
+
 ## 🚀 Featured Projects
 
 ### 🔹 math.ai – Generative AI Platform
