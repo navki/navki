@@ -115,7 +115,7 @@ Highly motivated and detail-oriented aspiring Data Scientist with strong foundat
 ## 📫 Connect With Me
 
 - 📧 navkeshmarani55@gmail.com  
-- 💼 LinkedIn: *(add your link)*  
+- 💼 LinkedIn:https://www.linkedin.com/in/navkesh-marani-bb4765211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🐙 GitHub: https://github.com/navki  
 
 ---
