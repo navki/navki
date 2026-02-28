@@ -89,7 +89,11 @@ Highly motivated and detail-oriented aspiring Data Scientist with strong foundat
 - Improved pipeline readiness via feature engineering  
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navki&show_icons=true&theme=tokyonight" />
+</p>
 ## 🚀 Featured Projects
 
 ### 🔹 math.ai – Generative AI Platform
