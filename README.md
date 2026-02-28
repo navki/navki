@@ -120,9 +120,6 @@ Highly motivated and detail-oriented aspiring Data Scientist with strong foundat
 
 ---
 
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
